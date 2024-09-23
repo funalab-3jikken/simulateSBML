@@ -1,9 +1,9 @@
 {
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/workspaces/helloSBML",
-            "binaryPath": "/workspaces/helloSBML/helloSBML",
-            "binaryArgs": []
-        }
-    ]
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/workspaces/simulateSBML",
+      "binaryPath": "/workspaces/simulateSBML/simulateSBML",
+      "binaryArgs": []
+    }
+  ]
 }
